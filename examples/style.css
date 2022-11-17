@@ -1,0 +1,80 @@
+/*1) .class1.class2*/
+.name1.name2 {
+    color: blueviolet;
+}
+
+/*2) .class1 #1*/
+.first #h4id {
+    color: orangered;
+}
+
+
+
+
+/*3) element.class*/
+p.element {
+    color: brown;
+
+
+}
+
+/*4) element,element*/
+h3,
+h2 {
+    color: blue;
+}
+
+/*5) element>element*/
+div>p {
+    color: darkgreen;
+}
+
+/*6) element+element*/
+.divdir+h5 {
+    color: cadetblue;
+}
+
+/*7) [attribute~=value]*/
+[title~=ders] {
+    color: chartreuse;
+}
+
+/*8) [attribute$=value]*/
+a[href$=ok] {
+    color: red;
+}
+
+/*9) :active*/
+a:active {
+    background-color: cyan;
+}
+
+/*10) :checked*/
+#check:checked {
+    margin-right: 30px;
+}
+
+/*11) :disabled*/
+input[type=text]:disabled {
+    background: brown;
+}
+
+/*12) :first-child*/
+h5:first-child {
+    color: blueviolet;
+}
+
+/*13) :hover*/
+a:hover {
+    color: chartreuse;
+}
+
+/*14) :last-child*/
+h6:last-child {
+    color: gold;
+}
+
+/*15) :visited*/
+a:visited {
+    color: pink;
+}
