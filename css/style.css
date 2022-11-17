@@ -1,0 +1,59 @@
+#cube {
+    background-color: black;
+    width: 650px;
+    margin: auto
+}
+
+#circle1 {
+    background: red;
+    border-radius: 50%;
+    height: 650px;
+    width: 650px;
+    position: relative;
+
+}
+
+#circle2 {
+    position: absolute;
+    background: orange;
+    border-radius: 50%;
+    height: 540px;
+    width: 540px;
+    margin: 58px 55px;
+}
+
+#circle3 {
+    position: absolute;
+    background: yellow;
+    border-radius: 50%;
+    height: 431px;
+    width: 431px;
+    margin: 113px 111px;
+}
+
+#circle4 {
+    position: absolute;
+    background: green;
+    border-radius: 50%;
+    height: 326px;
+    width: 326px;
+    margin: 164px 163px;
+}
+
+#circle5 {
+    position: absolute;
+    background: blue;
+    border-radius: 50%;
+    width: 218px;
+    height: 218px;
+    margin: 218px 217px;
+}
+
+#circle6 {
+    position: absolute;
+    background: purple;
+    border-radius: 50%;
+    width: 116px;
+    height: 116px;
+    margin: 269px 270px;
+}
